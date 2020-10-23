@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "poker_light",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 54,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "53622496-268c-4b91-bed9-e16350ce9a15"
+            }
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": {
+              "__uuid__": "53622496-268c-4b91-bed9-e16350ce9a15"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 100
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": 254
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 255,
+          "curve": "quadOut"
+        }
+      ]
+    }
+  },
+  "events": []
+}
